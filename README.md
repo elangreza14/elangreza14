@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Muhammad Reza Elang Erlangga
-- 👀 I’m interested in Golang, Docker, Clean Architecture, Microservices and Kubernetes
+- 👀 I’m interested in Golang, Rust, Docker, Clean Architecture, Microservices and Kubernetes
 - 📫 Reach me in twitter @elangreza or email rezaelangerlangga14@gmail.com
 
 <!---
