@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Muhammad Reza Elang Erlangga
-- 👀 I’m interested in Efficient Code, Clean Architecture, Microservices and Distributed System
+- 👋 Hi, I’m Muhammad Reza
+- 👀 I’m interested in Efficient Code, Efficient Logic, Clean Architecture, Microservices and Distributed System
 - 👀 Continous learning for Golang, Rust, and Kubernetes
 - 📫 Reach me for your business inquieries at rezaelangerlangga14@gmail.com
 
