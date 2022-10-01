@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Muhammad Reza Elang Erlangga
 - 👀 I’m interested in Golang, Rust, Clean Architecture, Microservices and Kubernetes
-- 👀 2021 until now still learning Rust 🦀 🦀 🦀
+- 👀 Continous learning for Rust
 - 📫 Reach me in twitter @elangreza or email rezaelangerlangga14@gmail.com
 
 <!---
