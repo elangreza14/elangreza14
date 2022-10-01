@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Muhammad Reza Elang Erlangga
-- 👀 I’m interested in Golang, Rust, Clean Architecture, Microservices and Kubernetes
-- 👀 Continous learning for Rust
-- 📫 Reach me in twitter @elangreza or email rezaelangerlangga14@gmail.com
+- 👀 I’m interested in Efficient Code, Clean Architecture, Microservices and Distributed System
+- 👀 Continous learning for Golang, Rust, and Kubernetes
+- 📫 Reach me for your business inquieries at rezaelangerlangga14@gmail.com
 
 <!---
 elangreza14/elangreza14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
